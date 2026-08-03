@@ -13,7 +13,7 @@ Category 3: Regional City Demand & Dark Store Preference Signatures
 
 Category 4: Discount Economics & Price Elasticity
 
-Targeted SQL queries regarding various business questions can be found here (https://github.com/shreyawilliam/Zepto-Quick-Commerce-Sales-Promotional-Strategy-Analysis/blob/main/zepto_sales_dataset_analysis.sql).
+Targeted SQL queries regarding various business questions can be found [here](https://github.com/shreyawilliam/Zepto-Quick-Commerce-Sales-Promotional-Strategy-Analysis/blob/main/zepto_sales_dataset_analysis.sql).
 
 # Data Structure & Initial Checks
 The company's primary analytics dataset consists of a single transactional catalog view (zepto_sales_dataset) capturing product performance across 6 major metro cities, with a total row count of ~50,000+ aggregate order records. A description of the core schema attributes and derived structures is as follows:
