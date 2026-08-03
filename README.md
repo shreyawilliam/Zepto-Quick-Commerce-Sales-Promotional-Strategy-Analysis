@@ -31,6 +31,9 @@ To preserve profit margins and maximize growth, leadership must immediately halt
 
 Category 1: Product Category Performance & Revenue Drivers
 
+<img width="530" height="114" alt="Screenshot 2026-08-03 at 3 44 06 PM" src="https://github.com/user-attachments/assets/56a187de-e1ba-4277-9663-cac5695cf50c" />
+
+
 - Snacks is the core revenue driver. The Snacks category generated ₹17,12,447 in aggregate revenue across 14,406 orders, leading all categories in product depth (82 SKUs) and total volume.
 
 - Beverages is a strong second. Beverages contributed ₹12,27,002 in aggregate revenue across 10,802 orders with 66 active SKUs.
@@ -40,6 +43,10 @@ Category 1: Product Category Performance & Revenue Drivers
 - Staples and fresh items trail significantly. Categories like Dairy (28 SKUs, ₹5,79,648 revenue) and Instant Food (36 SKUs, ₹6,61,477 revenue) display much lower order volume and catalog depth on quick-commerce.
 
 Category 2: Influencer Marketing Campaign Lift & ROI
+
+<img width="803" height="208" alt="Screenshot 2026-08-03 at 3 54 15 PM" src="https://github.com/user-attachments/assets/f3026914-2d51-4280-8094-92eeaa3bbcc6" />
+
+
 
 - Influencer campaigns fail to drive higher average order velocity. Across 100% of product categories, organic products (influencer_active = False) averaged higher orders per product than influencer-backed products (influencer_active = True).
 
@@ -51,6 +58,10 @@ Category 2: Influencer Marketing Campaign Lift & ROI
 
 Category 3: Regional City Demand & Dark Store Preference Signatures
 
+<img width="559" height="596" alt="Screenshot 2026-08-03 at 3 56 27 PM" src="https://github.com/user-attachments/assets/f13f989f-1544-4bb6-a162-ab2b6bf36fd6" />
+
+
+
 - Delhi represents the largest individual market. Delhi generated the highest overall volume, anchored by Snacks alone driving ₹4,52,025 across 3,549 orders.
 
 - Snacks dominate North and South-Central hubs. Snacks ranked #1 by revenue in Delhi (₹4.52L), Chennai (₹3.32L), Bangalore (₹3.01L), and Pune (₹2.21L).
@@ -60,6 +71,10 @@ Category 3: Regional City Demand & Dark Store Preference Signatures
 - Zero-discount elasticity in Delhi Dairy. Delhi Dairy SKUs maintained a 0.00% average discount rate while generating ₹66,904 across 648 orders, proving full-price sustainability for essential categories in specific metros.
 
 Category 4: Discount Economics & Price Elasticity
+
+<img width="605" height="66" alt="Screenshot 2026-08-03 at 3 57 58 PM" src="https://github.com/user-attachments/assets/f7a00372-5dd4-4fc7-9208-f9e6287654c1" />
+
+
 
 - Full-price items drive the highest aggregate volume. The 0% (No Discount) tier generated the highest total revenue (₹22,98,086) and total order volume (18,396 orders) across 107 products.
 
