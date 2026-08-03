@@ -33,6 +33,8 @@ To preserve profit margins and maximize growth, leadership must immediately halt
 
 <img width="530" height="114" alt="Screenshot 2026-08-03 at 3 44 06 PM" src="https://github.com/user-attachments/assets/56a187de-e1ba-4277-9663-cac5695cf50c" />
 
+<img width="490" height="320" alt="image" src="https://github.com/user-attachments/assets/925d4cf4-03a2-48cd-b3ad-e0f83ca8d7bf" />
+
 
 - Snacks is the core revenue driver. The Snacks category generated ₹17,12,447 in aggregate revenue across 14,406 orders, leading all categories in product depth (82 SKUs) and total volume.
 
@@ -46,6 +48,7 @@ To preserve profit margins and maximize growth, leadership must immediately halt
 
 <img width="803" height="208" alt="Screenshot 2026-08-03 at 3 54 15 PM" src="https://github.com/user-attachments/assets/f3026914-2d51-4280-8094-92eeaa3bbcc6" />
 
+<img width="764" height="541" alt="image" src="https://github.com/user-attachments/assets/a7e87d34-e14f-408c-b828-44c824f46d43" />
 
 
 - Influencer campaigns fail to drive higher average order velocity. Across 100% of product categories, organic products (influencer_active = False) averaged higher orders per product than influencer-backed products (influencer_active = True).
@@ -60,6 +63,7 @@ To preserve profit margins and maximize growth, leadership must immediately halt
 
 <img width="559" height="596" alt="Screenshot 2026-08-03 at 3 56 27 PM" src="https://github.com/user-attachments/assets/f13f989f-1544-4bb6-a162-ab2b6bf36fd6" />
 
+<img width="1037" height="661" alt="image" src="https://github.com/user-attachments/assets/a125afc7-70cd-461f-8caa-310bc2816a38" />
 
 
 - Delhi represents the largest individual market. Delhi generated the highest overall volume, anchored by Snacks alone driving ₹4,52,025 across 3,549 orders.
@@ -73,6 +77,8 @@ To preserve profit margins and maximize growth, leadership must immediately halt
 4. Discount Economics & Price Elasticity
 
 <img width="605" height="66" alt="Screenshot 2026-08-03 at 3 57 58 PM" src="https://github.com/user-attachments/assets/f7a00372-5dd4-4fc7-9208-f9e6287654c1" />
+
+<img width="501" height="253" alt="image" src="https://github.com/user-attachments/assets/83b02784-429e-4047-a36c-bdfdb651607f" />
 
 
 
