@@ -9,13 +9,13 @@ Data Cleaning & PreparationBefore running analytical queries, the dataset underw
 
 Column Verification: Verified price attributes (current_price, original_price, discount) and sales volume identifiers.
 
-Data Correction Note: Identified and accounted for unit price variances to calculate accurate average savings per item ($current\_price - original\_price$).
+Data Correction Note: Identified and accounted for unit price variances to calculate accurate average savings per item (current_price - original_price).
 
 Categorical Logic: Structured discount rates into standard analytical tiers (0% Full Price, 1%–5% Low, 6%–10% Medium).
 
 Key Findings & Executive Insights
 
-1.Category Revenue DominanceFinding: Snacks and Beverages drive the business, accounting for 50.8% of total platform revenue (₹29.39 Lakhs out of ~₹57.8 Lakhs total).
+1. Category Revenue DominanceFinding: Snacks and Beverages drive the business, accounting for 50.8% of total platform revenue (₹29.39 Lakhs out of ~₹57.8 Lakhs total).
 
 Business Takeaway: Quick-commerce usage is heavily driven by high-frequency, impulse-buying habits rather than planned bulk grocery purchases.
 
