@@ -29,7 +29,7 @@ To preserve profit margins and maximize growth, leadership must immediately halt
 
 # Insights Deep Dive
 
-Category 1: Product Category Performance & Revenue Drivers
+1. Product Category Performance & Revenue Drivers
 
 <img width="530" height="114" alt="Screenshot 2026-08-03 at 3 44 06 PM" src="https://github.com/user-attachments/assets/56a187de-e1ba-4277-9663-cac5695cf50c" />
 
@@ -42,7 +42,7 @@ Category 1: Product Category Performance & Revenue Drivers
 
 - Staples and fresh items trail significantly. Categories like Dairy (28 SKUs, ₹5,79,648 revenue) and Instant Food (36 SKUs, ₹6,61,477 revenue) display much lower order volume and catalog depth on quick-commerce.
 
-Category 2: Influencer Marketing Campaign Lift & ROI
+2. Influencer Marketing Campaign Lift & ROI
 
 <img width="803" height="208" alt="Screenshot 2026-08-03 at 3 54 15 PM" src="https://github.com/user-attachments/assets/f3026914-2d51-4280-8094-92eeaa3bbcc6" />
 
@@ -56,7 +56,7 @@ Category 2: Influencer Marketing Campaign Lift & ROI
 
 - Marketing expense is compounding margin giveback. In Dairy, influencer SKUs carried higher average unit discounts (₹10.00 vs ₹6.09 for organic) while still delivering lower order volume, leading to double margin leakage.
 
-Category 3: Regional City Demand & Dark Store Preference Signatures
+3. Regional City Demand & Dark Store Preference Signatures
 
 <img width="559" height="596" alt="Screenshot 2026-08-03 at 3 56 27 PM" src="https://github.com/user-attachments/assets/f13f989f-1544-4bb6-a162-ab2b6bf36fd6" />
 
@@ -70,7 +70,7 @@ Category 3: Regional City Demand & Dark Store Preference Signatures
 
 - Zero-discount elasticity in Delhi Dairy. Delhi Dairy SKUs maintained a 0.00% average discount rate while generating ₹66,904 across 648 orders, proving full-price sustainability for essential categories in specific metros.
 
-Category 4: Discount Economics & Price Elasticity
+4. Discount Economics & Price Elasticity
 
 <img width="605" height="66" alt="Screenshot 2026-08-03 at 3 57 58 PM" src="https://github.com/user-attachments/assets/f7a00372-5dd4-4fc7-9208-f9e6287654c1" />
 
