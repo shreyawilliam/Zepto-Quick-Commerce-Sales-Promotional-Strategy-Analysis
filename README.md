@@ -1,4 +1,4 @@
-# Zepto-Quick-Commerce-Sales-Promotional-Strategy-Analysis
+# Zepto Sales & Promotional Strategy Analysis
 This project analyses transactional data from Zepto (a leading quick-commerce platform in India operating hyper-local dark stores for 10-minute grocery delivery) to evaluate category revenue drivers, the return on investment (ROI) of influencer marketing campaigns, regional demand signatures across Indian metro cities, and the true impact of price discounting on order velocity. evaluating platform sales drivers, marketing ROI, and pricing mechanics. Operating in the high-velocity quick-commerce industry, Zepto relies on optimising dark store inventory turnaround, maintaining unit economics, and acquiring users via digital and influencer campaigns.
 
 Key business metrics tracked across our catalog include Gross Merchandise Value (GMV / Revenue), Order Velocity (average orders per SKU), Discount Depth (unit margin impact), and Campaign Lift.
